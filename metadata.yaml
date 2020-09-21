@@ -1,0 +1,26 @@
+---
+# This font has proper support for cyrillic
+mainfont: Times New Roman
+fontsize: 12pt
+indent: true
+linestretch: 1.5
+
+# Set margins
+geometry: "top=2cm, bottom=2cm, left=2.5cm, right=2cm"
+
+toc-title: Содржина
+documentclass: report
+
+# Show list of figures and tables
+lof: true
+lot: true
+
+title-meta: 'Formal verification of Instruction Sets in Virtual Machines'
+author-meta: 'Boro Sitnikovski'
+keywords:
+- 'Mathematical proofs'
+- 'Dafny'
+- 'virtual machines'
+- 'instruction set'
+- 'formal verification'
+---

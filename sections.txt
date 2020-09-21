@@ -1,0 +1,14 @@
+manuscript/chapter1.md
+manuscript/chapter2.md
+manuscript/chapter3.md
+manuscript/chapter4.md
+manuscript/part1.md
+manuscript/chapter5.md
+manuscript/part2.md
+manuscript/chapter6.md
+manuscript/part3.md
+manuscript/chapter7.md
+manuscript/chapter8.md
+manuscript/chapter9.md
+manuscript/appendix-a.md
+manuscript/bibliography.md
